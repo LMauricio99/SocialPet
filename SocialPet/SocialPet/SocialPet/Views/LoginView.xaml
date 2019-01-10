@@ -15,7 +15,7 @@
                 </Grid.RowDefinitions>
                 <Image Grid.Row="0" Source="pets.png" WidthRequest="130" HeightRequest="130" Margin="0,50,0,30"/>
                 <StackLayout Grid.Row="1" Padding="30,20">
-                    <Entry Placeholder="Correo Eléctronico es la mejor opcion" PlaceholderColor="White"/>
+                    <Entry Placeholder="Correo Eléctronico" PlaceholderColor="White"/>
                     <Entry Placeholder="Contraseña" PlaceholderColor="White" IsPassword="True"/>
                     <Button Text="Sign in"/>
                     <Label Text="Or" HorizontalOptions="Center"/>
